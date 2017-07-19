@@ -1,7 +1,9 @@
-# `angular-seed` — the seed for AngularJS apps
+# — TemplateStore based on Angular Seed
 
-This project is an application skeleton for a typical [AngularJS][angularjs] web app. You can use it
-to quickly bootstrap your angular webapp projects and dev environment for these projects.
+This project is an application based on skeleton of Angular Seed project
+https://github.com/angular/angular-seed.git
+
+You can use it to quickly bootstrap your angular webapp projects and dev environment for these projects.
 
 The seed contains a sample AngularJS application and is preconfigured to install the Angular
 framework and a bunch of development and testing tools for instant web development gratification.
@@ -15,7 +17,7 @@ To get you started you can simply clone the `angular-seed` repository and instal
 
 ### Prerequisites
 
-You need git to clone the `angular-seed` repository. You can get git from [here][git].
+You need git to clone the `angular-seed` repository. You can get git from [here][http://expertcodedesign.com].
 
 We also use a number of Node.js tools to initialize and test `angular-seed`. You must have Node.js
 and its package manager (npm) installed. You can get them from [here][node].
@@ -73,7 +75,7 @@ this server is:
 npm start
 ```
 
-Now browse to the app at [`localhost:8000/index.html`][local-app-url].
+Now browse to the app at [`localhost:8080/index.html`][local-app-url].
 
 
 ## Directory Layout
@@ -286,7 +288,7 @@ For more information on AngularJS please check out [angularjs.org][angularjs].
 [jdk]: https://wikipedia.org/wiki/Java_Development_Kit
 [jdk-download]: http://www.oracle.com/technetwork/java/javase/downloads
 [karma]: https://karma-runner.github.io/
-[local-app-url]: http://localhost:8000/index.html
+[local-app-url]: http://localhost:8080/index.html
 [node]: https://nodejs.org/
 [npm]: https://www.npmjs.org/
 [protractor]: http://www.protractortest.org/
