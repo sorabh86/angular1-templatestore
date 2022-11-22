@@ -4,7 +4,7 @@
 		"name":"Blue Theme",
 		"description":"Soluta voluptatibus ducimus, dignissimos sed vitae temporibus impedit autem, atque velit illo provident alias. Voluptas inventore est optio asperiores, necessitatibus reprehenderit obcaecati suscipit! Eaque omnis saepe doloremque sit suscipit recusandae adipisci quaerat asperiores inventore possimus tempore nesciunt voluptates, eos iusto.",
 		"type":"html5",
-		"price": 9.99,
+		"price": 29.99,
 		"images": [
 			{
 				"name":"blue.jpg"
@@ -21,7 +21,7 @@
 		"name":"Gray Theme",
 		"description":"Est debitis enim adipisci labore natus saepe quos alias. Eaque impedit hic voluptates quod autem esse dolores deleniti, vel possimus consequatur? Iste illo cum, accusantium a reiciendis amet, vel similique voluptate minus iusto itaque quibusdam laborum excepturi, quos voluptatum corporis.",
 		"type":"html5",
-		"price": 9.99,
+		"price": 19.99,
 		"images": [
 			{
 				"name":"gray.jpg"
@@ -32,7 +32,7 @@
 		"name":"Green Theme",
 		"description":"Deserunt id veritatis obcaecati sunt consectetur architecto nam temporibus quas rem eius sed dolorum mollitia voluptatum, reiciendis magnam omnis nisi ducimus saepe ullam. Sit, architecto tempore, natus labore itaque iure, molestias impedit necessitatibus ipsa expedita ut voluptatibus doloremque animi doloribus.",
 		"type":"html5",
-		"price": 9.99,
+		"price": 24,
 		"images": [
 			{
 				"name":"green.jpg"
@@ -43,7 +43,7 @@
 		"name":"Orange Theme",
 		"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed necessitatibus, numquam, dignissimos totam dicta nobis quibusdam, laboriosam explicabo itaque exercitationem sunt tempore cum nam eos commodi veritatis quae tempora sequi a mollitia repellat excepturi blanditiis! Nesciunt sit, harum ullam. Dolor.",
 		"type":"html5",
-		"price": 9.99,
+		"price": 29,
 		"images": [
 			{
 				"name":"orange.jpg"
